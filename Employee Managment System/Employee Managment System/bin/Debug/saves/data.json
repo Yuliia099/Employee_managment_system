@@ -1,0 +1,63 @@
+{
+  "$id": "1",
+  "1": {
+    "$id": "2",
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+    "EmployeeID": 1,
+    "EmployeeName": "Іван Іванов",
+    "EmployeePosition": "Junior Developer",
+    "EmployeeGender": "Male",
+    "EmployeeEducation": "Bachelor",
+    "EmployeeAddress": "вул. Центральна 56",
+    "EmployeePhone": "098765433",
+    "EmployeeDoB": "1998-12-30T00:00:00"
+  },
+  "2": {
+    "$id": "3",
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+    "EmployeeID": 2,
+    "EmployeeName": "Микола Мельник",
+    "EmployeePosition": "Junior Developer",
+    "EmployeeGender": "Male",
+    "EmployeeEducation": "PhD",
+    "EmployeeAddress": "вул.Шевченка 67",
+    "EmployeePhone": "0686967687",
+    "EmployeeDoB": "1990-02-01T00:00:00"
+  },
+  "3": {
+    "$id": "4",
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+    "EmployeeID": 3,
+    "EmployeeName": "Галина Сидоренко",
+    "EmployeePosition": "Senior Developer",
+    "EmployeeGender": "Female",
+    "EmployeeEducation": "Bachelor",
+    "EmployeeAddress": "вул.Ковальська 67/23",
+    "EmployeePhone": "0986576867",
+    "EmployeeDoB": "1990-02-01T00:00:00"
+  },
+  "4": {
+    "$id": "5",
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+    "EmployeeID": 4,
+    "EmployeeName": "Тарас Шевченко",
+    "EmployeePosition": "Accountant",
+    "EmployeeGender": "Male",
+    "EmployeeEducation": "Master",
+    "EmployeeAddress": "вул.Сонячна 15",
+    "EmployeePhone": "098657890",
+    "EmployeeDoB": "1989-11-16T00:00:00"
+  },
+  "5": {
+    "$id": "6",
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+    "EmployeeID": 5,
+    "EmployeeName": "Петро Петренко",
+    "EmployeePosition": "Junior Developer",
+    "EmployeeGender": "Male",
+    "EmployeeEducation": "Master",
+    "EmployeeAddress": "вул. Б.Хмельницького 64",
+    "EmployeePhone": "09576864356",
+    "EmployeeDoB": "2000-03-03T00:00:00"
+  }
+}

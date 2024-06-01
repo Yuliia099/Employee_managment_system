@@ -1,0 +1,32 @@
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.csproj.AssemblyReference.cache
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\obj\Debug\Employee_Managment_System.Login.resources
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\obj\Debug\Employee_Managment_System.Home.resources
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\obj\Debug\Employee_Managment_System.Properties.Resources.resources
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.csproj.GenerateResource.cache
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.csproj.CoreCompileInputs.cache
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\bin\Debug\Employee Managment System.exe.config
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\bin\Debug\Employee Managment System.exe
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\bin\Debug\Employee Managment System.pdb
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.exe
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.pdb
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\obj\Debug\Employee_Managment_System.Employee.resources
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\38098\OneDrive\Рабочий стол\C#\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.csproj.CopyComplete
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\bin\Debug\Employee Managment System.exe.config
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\bin\Debug\Employee Managment System.exe
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\bin\Debug\Employee Managment System.pdb
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.csproj.AssemblyReference.cache
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee_Managment_System.Login.resources
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee_Managment_System.Home.resources
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee_Managment_System.Properties.Resources.resources
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.csproj.GenerateResource.cache
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.csproj.CoreCompileInputs.cache
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.csproj.CopyComplete
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.exe
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee Managment System.pdb
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee_Managment_System.View.resources
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee_Managment_System.Employee.resources
+C:\Users\38098\OneDrive\Рабочий стол\Employee Managment System\Employee Managment System\obj\Debug\Employee_Managment_System.Salary2.resources
